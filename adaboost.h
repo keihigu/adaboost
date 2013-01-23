@@ -1,7 +1,7 @@
 /****************************
  * Adaboost 
  * 
- * Weite by Keihigu khiguchi at acm.org
+ * Wrote by Keihigu khiguchi at acm.org
  *
  * learning data format
  * label[0,1] number0[0...n]:value0[float value] number1:value1 ....... numbern:valuen
