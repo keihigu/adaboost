@@ -1,3 +1,11 @@
+/***************************
+ * Example of Adaboost Learning
+ * 
+ * Write by keihigu khiguchi at acm.org
+ * 
+ * usage: ./adaboost train_num data_file.txt(see adaboost.h)
+ * 
+***************************/
 #include "adaboost.h"
 
 int main(int argc, char *argv[]){
