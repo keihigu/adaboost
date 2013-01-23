@@ -1,3 +1,20 @@
+/****************************
+ * Adaboost 
+ * 
+ * Weite by Keihigu khiguchi at acm.org
+ *
+ * learning data format
+ * label[0,1] number0[0...n]:value0[float value] number1:value1 ....... numbern:valuen
+ * example 
+ * 0 0:0.01 1:0.2 2:0.3
+ * 0 0:0.02 1:0.2 2:0.4
+ * 1 0:0.5 1:0.22 2:0.4
+ * 1 0:0.5 1:0.21 2:0.35
+ * 
+ * Weaks data format (Result of adaboost)
+ * row col label value conf
+****************************/
+
 #ifndef _ADABOOST_H_
 #define _ADABOOST_H_
 #include <iostream>
