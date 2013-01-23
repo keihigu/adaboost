@@ -1,3 +1,11 @@
+/***************************
+ * Example of Adaboost Predict
+ * 
+ * Write by keihigu khiguchi at acm.org
+ * 
+ * usage: ./adaboost weak_num weaks_file.txt data_file.txt(see adaboost.h)
+ * 
+***************************/
 #include "adaboost.h"
 
 int main(int argc, char *argv[]){
