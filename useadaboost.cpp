@@ -3,7 +3,7 @@
  * 
  * Write by keihigu khiguchi at acm.org
  * 
- * usage: ./adaboost train_num data_file.txt(see adaboost.h)
+ * usage: ./adaboost train_num data_file.txt(see adaboost.h) > output_weaks_file.txt
  * 
 ***************************/
 #include "adaboost.h"
